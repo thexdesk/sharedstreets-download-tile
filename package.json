@@ -45,6 +45,6 @@
   "dependencies": {
     "axios": "*",
     "meow": "*",
-    "sharedstreets-pbf": "*"
+    "sharedstreets-pbf": "0.8.0"
   }
 }
