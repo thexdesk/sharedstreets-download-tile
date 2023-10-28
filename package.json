@@ -43,7 +43,7 @@
     "typescript": "*"
   },
   "dependencies": {
-    "axios": "*",
+    "axios": "1.6.0",
     "meow": "*",
     "sharedstreets-pbf": "*"
   }
